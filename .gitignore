@@ -1,0 +1,13 @@
+# 各关工作空间在仓库内直接编译，生成目录不提交。
+**/build/
+**/devel/
+**/logs/
+**/__pycache__/
+2关/.catkin_workspace
+2关/src/CMakeLists.txt
+
+# 编辑器与本地工作记录不属于课程提交内容。
+/.vscode/
+.DS_Store
+**/.DS_Store
+.workbuddy/
